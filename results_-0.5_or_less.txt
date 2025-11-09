@@ -1,0 +1,10 @@
+RESULT: -0.6 1.0
+ There is substantial variation among artificial lighting types regarding the compounds or technologies used and the ranges of wavelengths emitted.
+RESULT: -0.5 0.8
+ These impacts can adversely affect bats by disturbing their behavior, growth, reproduction, or survival.
+RESULT: -0.5 0.625
+ Substrate vibrations are usually measured by three metrics: (1) displacement (the amount of movement); (2) the velocity of the vibrations; and (3) the acceleration of the substrate movement.
+RESULT: -0.6 1.0
+ Section 3 discusses the types of impacts that artificial lights have on foraging and roosting bats.
+RESULT: -1.0 1.0
+ What may be a catastrophic loss for one population of bats may not be nearly as devastating to another population.

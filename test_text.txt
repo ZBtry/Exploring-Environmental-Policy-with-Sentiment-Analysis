@@ -1,0 +1,742 @@
+Bats are unusual among small mammals because they are long-lived. An individual bat living up
+to 15 years is not uncommon and the little brown myotis (Myotis lucifugus) is known to live over
+30 years. In general, bats also have a low reproductive rate. Most species have only one young per
+year. A few species such as the pallid bat, hoary bat, and western red bat have twins or multiple
+births. Females are often 2 years old before they reach reproductive maturity and breeding females
+are usually behaviorally sensitive to disturbance. As a result of low reproductive rates, maternity
+colonies that are affected by temporarily-reduced fecundity or mortality, including transportation
+project activities, may require multiple years to recover following a disturbance event (See case
+studies in Section 8).
+2.3 Roosting Ecology
+Bats use multiple roost types and the inhabitation of each type varies temporally and seasonally.
+Common characteristics to all roosts include an appropriate temperature regime, protection from
+predators and inclement weather, and proximity to foraging sites. By roosting in a colony, bats
+conserve energy through thermoregulation, have increased mating opportunities and maternal care,
+have greater numbers of communication with other bats, and are likely to have less competition
+for food from other vertebrate species (Altringham 2011). These roost sites may occur in crevices,
+cavities, and foliage. The roosting patterns for California bat species are provided in Table 2-1.
+Roost site selection and use, structural features of roosts, and the importance of bridges as roosting
+habitat for bats are discussed below.
+Roost site selection and use. The primary criteria for roost site selection are diurnal and seasonal
+temperature patterns. Bats are unusual among mammals because they are heterothermic, meaning
+their body temperature is variable. Although they are capable of thermoregulating like other
+mammals, bats also have the capacity to allow their body temperatures to follow ambient
+temperatures in a manner similar to many cold-blooded animals. In general, bats seek thermally-
+buffered roost sites with stable temperatures over time and a lower range in temperature fluctuation
+throughout the day and night when compared to the surrounding environment. In the summer while
+raising young, bats often seek warm, but thermally-buffered, environments. These settings provide
+enough thermal diversity for bats to maintain a fairly constant body temperature regime by simply
+moving to areas with different temperatures. In the winter, especially in areas where temperatures
+frequently drop below freezing, bats seek thermally stable roosts that are ideally just a couple of
+degrees above freezing in which to hibernate. In most regions of California, where temperatures
+rarely drop below freezing, bats typically seek cool roosts that do not substantially fluctuate in
+temperature. This behavior enables bats to save energy by using torpor, which allows their body
+temperatures to drop below their normal temperatures when active (Salinas et al. 2014).
+Bats change roosts seasonally. Although the timing of roost changes varies with species and
+geographic location, bats generally form maternity colonies in the spring. These aggregations are
+maintained until the young are independent, which usually occurs in the late summer or early fall.
+During this maternity season, adult males typically roost alone or less commonly in bachelor
+colonies.
+In the fall, some California species, such as the Mexican free-tailed bat and the western red bat,
+migrate regionally—often less than 200 miles—to milder climates, and use roosts for short periods
+as migratory stop-over sites (Johnston 1998, Johnston and Whitford 2009). Hoary bats, however,
+migrate long distances between their summer pupping areas and their wintering areas along the
+California coast; these migrations may exceed 1,000 miles. Other species, such as the pallid bat,
+remain within the same general area year-round, hibernate or lower their body temperature by
+entering shallow torpor, and maintain a low level of activity throughout the winter (Johnston et al.
+2018). For most species, little is known about their migratory movements.
+Although large hibernating aggregations are common in some parts of the United States, they are
+relatively rare in California. The largest hibernating aggregations have been found only in caves
+and mines. However, aggregations of more than 1,000 non-hibernating Mexican free-tailed bats
+have been observed overwintering in bridges along the California Coast and in portions of the
+Central Valley (Johnston 1998). For example, the Alameda Creek Bridge on Interstate 880 (I-880)
+in Alameda County provides overwintering habitat for approximately 1,000 Mexican free-tailed
+bats, most of which leave in late February or early March. This bridge is close enough to the San
+Caltrans Bat Mitigation: A Guide to Developing 2-7 H. T. Harvey & Associates
+Feasible and Effective Solutions July 2019
+Francisco Bay that winter temperatures remain relatively cool with little fluctuation. These bats
+likely fly to the Central Valley, where summer nights are warm and there are presumably high
+concentrations of insects as prey (Johnston 1998). Most California bat species roost singly or in
+small groups when hibernating during the winter. During the summer months maternity colonies
+roost in conditions that are very warm and thermally stable. Roosts typically receive solar radiation
+that warms the roost for crevice-roosting bats. In the winter, bats seek conditions which remain
+cool and do not warm up during the day (Altringham 2011). For the State Route (SR) 91 Santa
+Ana River Bridge Widening Project in Riverside County, LSA bat specialist Jill Carpenter reported
+that bats roosted in the bat boxes that were situated on the outer concrete I-beams and usually
+received solar radiation during part of each day (Carpenter pers. comm. 2018). During the winter
+months, the bats used bat boxes located centrally under the bridge where temperatures were cooler
+and more constant.
+Bats are most active and raise their young during the summer. During this season bats
+frequently use one roost during the day where they sleep and rear their young and another roost at
+night for resting, digesting, and socializing. Occasionally bats will day roost outside of a crevice
+in an area more typical of a night roost; however, this is uncommon and makes bats more
+vulnerable to predation. Day roosts tend to be cryptic, concealed, and not always “predictable” in
+their location. When crevice roosting bats choose a tree for day roosting, the tree is usually greater
+than 12 inches diameter at breast height and more than 40 feet tall (Rancourt et al. 2007). However,
+bats can exhibit a certain amount of flexibility, and in Plumas National Forest, a small maternity
+colony of five female pallid bats used a small sugar pine (Pinus lambertiana) cavity only 5 feet
+above the ground as a day roost (Johnston and Gworek 2006). In contrast, night roosts tend to be
+more open or exposed, are relatively easier for bat biologists to locate, and are typically close to
+foraging habitat.
+Little is known about roost requirements specific to mating. Some winter day roosts are used
+specifically for the purposes of mating, as in the case of the cave-dwelling California leaf-nosed
+bat (Macrotus californicus) (Brown and Berry 1994), but it is generally assumed that most other
+California bats, such as the pallid bat, mate primarily in their unspecialized fall and winter roosts
+(Johnston et al. 2006). Additionally, some night roosts are used as swarming areas where bats may
+investigate the suitability of overwintering sites, give that year’s offspring information about the
+locations of overwintering sites, and bring males and females from multiple colonies together to
+increase genetic diversity (Altringham 2011). All the vespertilionids (i.e., mouse-eared bats) and
+the California leaf-nosed bat mate during fall and winter but females do not become pregnant until
+the spring as these bats exhibit a delayed fetal development. Molossids (i.e., free-tailed bats), such
+Caltrans Bat Mitigation: A Guide to Developing 2-8 H. T. Harvey & Associates
+Feasible and Effective Solutions July 2019
+as the Mexican free-tailed bat, usually mate in late winter or early spring. All California bats give
+birth to babies sometime from mid-spring to mid-summer, depending upon the local climate.
+Structural features of roosts. North American bat species use three general categories of roost
+structures: crevices, caverns, and foliage. Table 2-1 lists the roosting patterns of California bat
+species. Although some bat species appear to be obligate cavern or crevice dwellers, there is a
+continuum between crevices and caverns, and many species use a range of roosts. In natural
+settings, cavernous roosting species aggregate on open surfaces inside dark chambers, such as
+caves or large tree hollows. Crevice roosting species occupy a variety of narrow slots (e.g., rock
+crevices, exfoliating tree bark, and damaged wood in snags). With the exception of a few foliage
+roosting species, North American bats also roost in cave-like spaces and/or crevices in
+anthropogenic structures, including occupied or abandoned buildings, old mine workings, silos,
+towers, tunnels, and bridges. Mines and caves are especially important for several special-status
+species such as the Townsend’s big-eared bat, California leaf-nosed bat, fringed myotis, and less
+frequently, pallid bat.
+Species that roost in cliff faces and rock crevices are often found along highway corridors and
+rocky banks near bridges in the Sierra Nevada and the Coast Ranges, particularly on highways that
+follow major rivers. Several bat species roost in tree cavities or under flaking bark, in structural
+flaws that are commonly found in conifer snags, and in live, mature cottonwoods (Populus spp.),
+sycamores (Platanus racemosa), and oaks (Quercus spp.). These tree roosts can occur within the
+road right-of-way, particularly along stream and river corridors. Foliage roosting species are often
+concentrated in stands of mature riparian trees such as cottonwoods and sycamores. The long-
+eared myotis has been detected roosting in crevices among rock slope protection material used for
+rock revetment at bridges that span streams (Rainey and Pierson 1996). California myotis and
+Yuma myotis have also been observed roosting in the rock revetment that surrounds a rock bridge
+in the East San Jose hills (Dave Johnston pers. obs. 2011).
+2.4 Foraging Ecology
+Although bat species show some specialization for particular foraging styles and habitats, they
+also will opportunistically exploit locally abundant prey (Johnston and Fenton 2001, Whitaker
+1994). Diet studies conducted along the upper Sacramento River showed that while there were
+marked differences in average diet composition across species, several species took advantage of
+substantial hatches of particular insects, such as winged termites and caddisflies (Rainey and
+Pierson 1996).
+Studies in Canada (Grindal et al. 1999) and the Sierra Nevada (Pierson et al. 2001) found that bat
+activity was concentrated over water in forested areas of western North America. The Yuma
+myotis feeds largely on emergent aquatic insects by skimming near the surface of lacustrine (e.g.,
+lakes or ponds with still water) or slow-moving waters; the little brown myotis also forages over
+lacustrine waters but at slightly greater distances above the surface (Herd and Fenton 1983). These
+two myotis species forage over small creeks and large, open lakes. Bat species divide potential
+foraging space in ways that can be partially predicted from their wing size and shape, which
+determine flight speed and maneuverability (Fenton and Bogdanowicz 2002). The Mexican free-
+tailed bat, which has long, narrow wings, typically forages at slightly greater heights and much
+faster speeds than the Yuma myotis, which gleans prey off the water’s surface and can also forage
+in much smaller spaces (D. Johnston, unpublished data). Multiple bat species forage primarily
+along the water’s edge and in adjacent riparian vegetation. However, some species such as the
+western small-footed bat (Myotis ciliolabrum) are also known to forage exclusively away from
+water, including along dry creek channels, within forest canopies, or in oak savanna. All of these
+foraging habitats may occur near bridges and other transportation structures.
+2.5 The Importance of Bridges to Bats
+The relative importance of bridges to bats can be attributed to a combination of factors. Bridges
+frequently have structural features that are analogous to natural roosts. The large mass of concrete
+provides bats with a thermally buffered environment that enables regulation of their body
+temperature (Smith and Stevenson 2013). Bridges over water and natural habitat are more likely
+to be used by bats than bridges that span roadways and other developed areas. However, when
+present, bats roosting over roadways or development are typically less sensitive to issues relating
+to urbanization, such as the Mexican free-tailed bat and to a lesser degree, Yuma myotis. Some
+southern California bridges that span other roadways, such as the West Prado Overhead Bridge on
+SR 91 in Riverside County, have very large Mexican free-tailed bat colonies.
+Keeley and Tuttle (1999) conducted an extensive investigation of bat species’ use of bridges
+throughout 25 states in the continental United States and found that only 1% of surveyed structures
+Caltrans Bat Mitigation: A Guide to Developing 2-10 H. T. Harvey & Associates
+Feasible and Effective Solutions July 2019
+had ideal conditions for day roosting habitat. This study also concluded that a much higher
+percentage of bridges could provide habitat for bats with relatively little or no extra cost for a given
+project. The results of the study suggested that most species chose to roost in concrete crevices
+that were sealed at the top, at least 6–12 inches deep, 0.5–1.25 inches wide, 10 feet or more above
+ground, and typically not located over busy roadways (Keeley and Tuttle 1999).
+Bridges have become important roosting habitat for Mexican free-tailed bats and other bat species
+(Bennett et al. 2008). Because bridges have provided bats with a new roosting habitat where insect
+prey are typically plentiful along water courses, bridges are likely responsible for greatly
+increasing populations of Mexican free-tailed bats and Yuma myotis (Johnston 2012). In many
+cases, when surveys are conducted within a 9–15-mile radius of a bridge roost, the bridge supports
+the most significant, and in some cases the only, population of a particular species in the area.
+Several colonies have resided in the same bridges for many years and have come to depend on
+these structures as the only suitable habitat available to them in a particular area. This is
+particularly true in areas where surrounding natural habitats have been degraded or eliminated,
+such as the loss of riparian forests in the Central Valley.
+Bridges and culverts have structural features that provide roosting sites for both crevice and cavern
+dwelling bats (Table 2-2). Crevice roosts, which are suitable for day roosting maternity colonies,
+are most frequently found in expansion and hinge joints, in abutment crevices, and in spaces
+formed at the junction between old and new portions of a widened bridge. Less commonly,
+crevices occur where a bridge, or more typically a viaduct, interfaces with rock features in the road
+cut. Anomalous features, such as crevices behind signs on bridges, can also provide roosting
+habitat. Bats that typically use crevices in bridges are listed in Table 2-1. Cave dwelling species
+can also use bridges as day roosts. The most commonly occurring cavernous habitat on bridges
+can be found in abutments, particularly where the slope meets the abutment in a configuration that
+provides a cave-like space. For example, the abutment spaces on each end of the Sweetwater River
+Bridge on SR 79 in San Diego County had a roosting Townsend’s big-eared bat, which is an
+obligate cave roosting species.
+Unscreened weep holes can become access points to cavernous habitat that is created in bridges
+with closed box girder type construction. At the time that the 2004 Guidance Manual was prepared,
+bat species were known to only occasionally access these large cavities in bridges. These species
+included the Townsend’s big-eared bat, big brown bat, and Yuma myotis (Erickson et al. 2003).
+During the surveys for this project, ecologists Dr. Dave Johnston and Kim Briones, M.S., observed
+many hundreds of Mexican free-tailed bats pouring out of weep holes in the Lake Hodges Bridge
+on I-15 in San Diego County (Photo 2-1). The Mexican free-tailed bat has shown evidence of
+social learning (Kerth 2008) and in California has demonstrated seasonal movements among
+Caltrans Bat Mitigation: A Guide to Developing 2-11 H. T. Harvey & Associates
+Feasible and Effective Solutions July 2019
+regions within the state (Johnston 1998). This roosting behavior could spread throughout this
+species’ range to bridges where the thermodynamics are conducive to roosting. The Mexican free-
+tailed bat has also been observed accessing weep holes to roost in closed box girder bridge cavities
+in Monterey County (Tatarian pers. comm. 2019), albeit in lesser numbers. Many older bridges
+have hollow piers with openings to their interiors, and these cavities could accommodate large
+numbers of bats.
+Photo 2-1. Roosting habitat at Lake Hodges Bridge with a weep hole access to
+cavern habitat for day roosting inside the box girder construction, a closure
+pour used for night roosting, and an add-on panel for day roosting habitat for
+crevice roosting bats.
+Night roosts are most commonly found in concrete girder bridges in areas where the girders create
+warm air pockets and where the temperature under the bridge deck is typically warmer, and more
+stable, than the ambient temperature (Perlmeter 1996, 2004; Pierson et al. 1996). These sites
+generally offer bats protection from weather and predators. Additionally, because bats forage most
+frequently in association with water, and many bridges span water bodies, these sites have the
+distinct advantage of offering proximity to foraging areas.
+Caltrans Bat Mitigation: A Guide to Developing 2-12 H. T. Harvey & Associates
+Feasible and Effective Solutions July 2019
+Table 2-2. Bridge and Culvert Features that Provide Roosting Habitat for Maternity Colonies and
+Individual Bats.
+Bridge or Culvert Feature Habitat Type Bat Purpose
+Hinge/expansion joint Crevice Day roost
+Abutment Cavern Day roost mostly
+Hollow piers Cavern Day roost
+Weep holes Open cavity Night roost
+Pier to soffit interface Cavity Day roost
+Open box girder Open large cavity Night roost
+Closed box girder* Cavern Day roost
+Closure pour Open large cavity Night roost
+Culvert manhole access Open cavity Day roost or night roost
+Culvert steel overlap Crevice Day roost
+Recessed pockets Crevice Day roost
+*Accessed through weep holes
+Additional information regarding bats and bridges for California can be found in The Bats and
+Bridges Technical Bulletin (Erickson et al. 2003), and for the southern United States, In America’s
+Bridges (Keeley and Tuttle 1999).
+Caltrans Bat Mitigation: A Guide to Developing 3-1 H. T. Harvey & Associates
+Feasible and Effective Solutions July 2019
+Section 3. Conservation Status of Bats
+This section describes the conservation issues affecting bat species as they relate to California
+transportation projects and discusses prioritization of species for conservation. There are 25 bat
+species in California, 18 of which are rare and/or considered Species of Special Concern (SSC) by
+CDFW, species of concern by the U.S. Fish and Wildlife Service (USFWS), or sensitive species
+by the U.S. Forest Service (USFS). All 25 of these bat species are known to have behavioral and
+ecological interactions with transportation structures, and can potentially be affected by
+transportation projects, especially those involving bridges. Bats, like other wildlife, respond at the
+population and individual levels to large-scale anthropogenic changes in ecosystems and
+landscapes. Each bat species responds differently to anthropogenic stressors; some species respond
+positively, but many respond negatively (Altringham 2011). California bat populations face many
+challenges and the primary issues for bat conservation include: (1) loss, fragmentation, and
+degradation of habitat; (2) pollution from chemicals, light, and noise; (3) predation and
+interspecific competition; (4) introduced diseases, particularly White-nose Syndrome; (5) climate
+change; (6) vehicular collisions; and (7) human disturbance, which includes many of the
+aforementioned issues. The discussion presented below will focus on the conservation issues most
+relevant to bridge and culvert projects and will briefly review the other issues.
+3.1 Loss, Fragmentation, and Degradation of Habitat
+Bridge replacement, new bridge construction, highway realignments, and new highway corridors
+have the potential to contribute to the loss, fragmentation, and degradation of bats’ roosting and
+foraging habitats. These impacts present the most serious threats to bat populations from
+transportation projects, particularly when the affected habitat is used for roosting; bat roosting
+habitat is considered a relatively scarce resource (Fenton 1997). Transportation projects can also
+eliminate foraging areas (e.g., removal of riparian vegetation) or fragment foraging habitat (e.g.,
+routing a road through a line of trees where bats concentrate their foraging). Transportation
+projects can also change the hydrology of nearby water bodies by converting areas of a fast-moving
+stream that provides specific emergent insect prey to slow-moving flat water that provides for a
+whole different set of emergent insect prey (or vice-versa), and therefore change the bat species
+foraging at these habitats. Studies in forest habitats suggest that bat species diversity (the
+abundance of each species represented) drops substantially when habitats are disturbed, while
+species richness (actual number of species represented) may stay the same (Fenton et al. 1992,
+Medellin et al. 2000). In central California, both species diversity and species richness declined as
+Caltrans Bat Mitigation: A Guide to Developing 3-2 H. T. Harvey & Associates
+Feasible and Effective Solutions July 2019
+the density of roads increased; the density is a metric of human density and the fragmentation and
+degradation of bat habitat (Whitford 2008). Habitat complexity and species richness have declined
+over time, which results in humans accepting certain levels of habitat degradation during their
+lifetime as normal conditions (e.g., lower background levels of bats). This acceptance of changes
+to intact habitats is repeated in successive generations and is a sociological phenomenon termed
+shifting baseline syndrome (Soga and Gaston 2018). Most of California’s natural environment has
+long been in decline, with much of the state no longer supporting habitat for many sensitive bat
+species.
+3.2 Pollution from Chemicals, Light, and Noise
+3.2.1 Chemicals
+Pollutants from construction waste that are introduced into drinking water sources for roosting
+bats, as well as exhaust emissions from construction equipment and vehicles, can result in adverse
+effects on bats during the implementation of transportation projects. Although both of these effects
+are generally considered temporary because they are associated with the construction phase, they
+are sometimes overlooked.
+3.2.2 Light
+Light pollution on a regional scale can be defined as the changing of natural light levels in the
+nocturnal landscape as a result of artificial lighting (Falchi et al. 2011). Thus, light pollution on a
+landscape scale is mostly the result of urbanization and is increasing by 6% per year (Holker et al.
+2010). Artificial lighting was found to extend the foraging period of diurnal insectivorous birds by
+a few hours, which created interspecific competition with several insectivorous bats (Rich and
+Longcore 2006). Although some bat species are attracted to lights, many species are repelled by
+them (Rowse et al. 2016). Additionally, nearly all California bats are insectivorous, and insects are
+strongly influenced by artificial lighting. There is substantial variation among artificial lighting
+types regarding the compounds or technologies used and the ranges of wavelengths emitted.
+Common types of artificial lighting include incandescent, mercury vapor, low pressure sodium,
+high pressure sodium, metal halide, and light-emitting diode (LED). Partly because insects respond
+very differently to each kind of lighting, bats’ attraction to different lighting types also varies.
+Thus, the effects of artificial lighting on bats are species-specific and highly dependent on the type
+of lighting.
+In addition to the brightness of light, its wavelength also affects bats’ behavior. Humans see
+wavelengths between 400 and 700 nanometers (nm) (i.e., visible light spectrum), while many
+Caltrans Bat Mitigation: A Guide to Developing 3-3 H. T. Harvey & Associates
+Feasible and Effective Solutions July 2019
+insects can see in the ultraviolet range of 10 to 400 nm and most bats likely see ultraviolet light
+between 335 and 395 nm (Gorresen et al. 2015). Therefore, bats perceive light differently than
+humans. Because there has been relatively little research on the effects of different types of lighting
+on North American bats, it remains difficult to ascertain how much a bat or bat colony might be
+affected by artificial lighting.
+Light pollution at a microhabitat level, such as on a bridge structure, usually involves specific light
+sources that can potentially result in direct impacts on bats and their roosting habitat. Most lighting
+on bridges is confined to the top deck and lamp posts are typically located along its edges. The
+lighting is directed on the road and is also angled away from the bridge on both sides. In some
+settings, the areas below the bridge are illuminated to provide visibility along pedestrian pathways
+or for vehicular traffic if the bridge spans another road. Although uncommon, lighting from a
+bridge deck may also shine directly on the soffits (undersides) of an adjacent bridge where bats
+could potentially emerge from expansion joints. Any direct or indirect artificial lighting has the
+potential to degrade or eliminate roosts or potential roosting habitat.
+3.2.3 Noise
+Bats are acutely sensitive to changes in their sound environment and can react to even relatively
+quiet noise if it is foreign to them and stimulates a stress response (Altringham and Kerth 2016).
+Additionally, the frequency of the noise is also important because individual species of bats have
+different sensitivities to various noise frequencies. Nearly all of California’s bats are insectivorous,
+and with the exception of a few species, such as the pallid bat (Antrozous pallidus), use high-
+frequency echolocation to detect prey and orient themselves within the landscape. Bats also use
+sound to communicate, especially while flying. Different species of bats will respond differently
+to human-induced noise and noise will affect certain bat behaviors differently, such as foraging
+versus roosting (Caltrans 2016).
+Although traffic along a bridge may generate enough noise to disrupt bats’ foraging ability
+adjacent to the bridge, much of their foraging will typically be far enough away from an occupied
+bridge roost that traffic noise is not a disruption. Further, most of the sounds generated from traffic
+tend to be low frequency, which except for the pallid bat, should not affect bats’ abilities to locate
+prey. Pallid bats detect prey by passively listening to low frequency sounds generated by the prey
+(Bell 1982, Johnston and Fenton 2001) so traffic may affect this species’ ability to forage near
+noise pollution. Allen et al. (2010) measured cortisol levels in roosting Brazilian free-tailed bats
+(Tadarida brasiliensis brasiliensis) in very noisy bridges and in remote caves without much human
+disturbance and found that bats roosting in noisy bridges had similar cortisol levels to their
+counterparts in quiet caves. Bats in noisy bridges did not show elevated levels of cortisol,
+Caltrans Bat Mitigation: A Guide to Developing 3-4 H. T. Harvey & Associates
+Feasible and Effective Solutions July 2019
+suggesting that these bats didn’t experience additional stress from the noise. Thus, these bats
+seemed to be unaffected by the noise from traffic activity on bridges. However, noise from
+construction activities can potentially disturb roosting bats to the point that they abandon their
+roost. Townsend’s big-eared bats (Corynorhinus townsendii) are so sensitive to noise disturbance
+that they are known to abandon their young when disturbed (Pierson and Rainey 1994).
+At a construction project in a large urban park, a maternity colony of big brown bats (Eptesicus
+fuscus) tolerated high decibel (dB) levels of low frequency sounds (audible to humans) generated
+by chain saws (75–86 dB) and large graders (85–89 dB) within 100 feet of their maternity roost,
+but the colony abandoned their roost when workers used a high-frequency (19–28 kilohertz [kHz])
+laser surveying instrument, inaudible to the human ear (Johnston et al. 2018). Although high
+frequencies attenuate to ambient sound in shorter distances than lower frequencies, the noise from
+equipment should be measured for corresponding frequencies to which the bat species involved
+are most sensitive. For example, in order to determine appropriate buffer zones for operating
+equipment near an active big brown bat roost, the dB of the 20 kHz frequency (the frequency that
+the big brown bat is most sensitive to) of noise and distance needed before the noise attenuated to
+ambient sound would need to be measured. See Sections 6 and 7 for more discussion on
+determining impacts and developing mitigation. Caltrans (2016) also provides guidance and good
+discussions about noise impacts to bats at transportation projects.
+Most construction noise is low frequency and within a range of low auditory sensitivity for many
+bat species. However, potential adverse effects on bats from construction noise include roost
+abandonment and the interruption or impediment of bats’ abilities to use echolocation for foraging
+or navigation around bridges. Noise disturbance and displacement of bats from roosts or important
+foraging areas can potentially result in reduced survivability of individuals from increased
+susceptibility to predation, reduced quality of thermal and social environments, and decreased
+foraging efficiencies. During the development of impact assessments and avoidance and
+minimization measures for the effects of construction noise on bats, the frequency of noise
+generated and the hearing sensitivity of the bat species at risk should be considered.
+3.3 Predation and Interspecific Competition
+Bats roosting on and emerging from bridges may be susceptible to predation due to their large
+concentrations. In California, bats have few predators, but may be susceptible to owls, hawks,
+snakes, and domestic cats (Lefevre 2005, Sommer et al. 2009, Mikula et al. 2016). Peregrine
+falcons (Falco peregrinus) in particular hunt bats in flight in California (Peeters and Peeters 2005).
+Other raptor species such as the American kestrel (Falco sparverius) and barn owl (Tyto alba)
+Caltrans Bat Mitigation: A Guide to Developing 3-5 H. T. Harvey & Associates
+Feasible and Effective Solutions July 2019
+have been observed roosting on California bridges and are known to capture Mexican free-tailed
+bats as they leave their bridge roosts (Dave Johnston, pers. obs. 2001). Nonnative rats (Rattus
+rattus) are also known to prey on bats in roosts in cavernous habitat (Fellers 2000), which
+sometimes occurs in the space between the abutments and the bank slopes of bridges. Other
+species, such as American crows (Corvus brachyrhynchos), have been known to capture bats but
+these observations are relatively rare. Additionally, bridges that provide nesting habitat for raptors
+and ravens (Corvus corax) can lead to an increase in predation on bats from predatory birds.
+Interspecific competition among bats is not well understood in North America. However, habitat
+use studies of bats in northern Monterey County suggest that species which are more sensitive to
+disturbance, including the hairy-winged bat (Myotis volans), are replaced by more tolerant species
+such as Yuma myotis (Myotis yumanensis) or Mexican free-tailed bat (Whitford 2008).
+3.4 White-Nose Syndrome
+The primary introduced disease that exhibits the greatest risk to bats is White-nose Syndrome
+(WNS), which is caused by a fungus (Pseudogymnoascus destructans) and infects bats in
+hibernation. This disease has spread rapidly from the state of New York, where it was first reported
+in North America, to the state of Washington within 12 years. Genetic data suggests this disease
+is widespread but uncommon in Europe, the likely source of the pathogen in North America. The
+WNS fungus was detected in Chester, California in the spring of 2019 although as of July 2019
+the WNS disease had not yet been detected in bats of California (CDFW 2019a). It is anticipated
+that bats afflicted with WNS will soon be found in California; however, bats in most parts of
+California do not enter the long periods of hibernation in cold (0–10°C), damp conditions
+associated with the disease (Frick et al. 2010). The exceptions are bats that inhabit the high
+elevations of the Sierra Nevada and northern high plateau areas, such as the caves in Lava Beds
+National Monument. Species such as the little brown myotis (Myotis lucifugus), which is especially
+susceptible to the disease, hibernate in these cold, damp caves during winter months. Bridges built
+in these and other geographic areas with cold winters (Building Climate Zone 16 of the California
+Energy Commission1) could help incubate the WNS fungus, which would put overwintering bats
+in these areas at risk of infection.
+1 https://www.researchgate.net/figure/California-Energy-Commission-building-climate-zones_fig1_242224522
+Caltrans Bat Mitigation: A Guide to Developing 3-6 H. T. Harvey & Associates
+Feasible and Effective Solutions July 2019
+3.5 Climate Change
+The effects of climate change on bat populations is an emerging topic in bat conservation. Because
+many of their life history traits (e.g., seasonal migration, distribution, hibernation, and
+reproduction) are closely tied to local and regional temperature patterns, a changing climate is
+expected to have important implications for many bat species. Effects of climate change on bats
+may include shifts in regional distribution, changes in reproductive patterns such as the timing of
+mating and delayed fertilization, declined reproductive success in semiarid regions where water
+may be increasingly scarce, direct mortality from extreme weather events, reduced insect prey
+base, and reduced biodiversity; only the most flexible species may be able to adjust to changing
+conditions (Adams and Hayes 2008; Hughes et al. 2012; Loeb and Winters 2012; Aguiar et al.
+2016; Grider et al. 2016; Stepanian and Wainwright 2018). Some effects of climate change on bats
+have already been observed; shifts in seasonal migration times have been documented in an
+Indiana bat (Myotis sodalis) colony in Indiana (Pettit and O’Keefe 2017), and one of the nation’s
+largest Mexican free-tailed bat colonies at Bracken Cave in Texas (Stepanian and Wainwright
+2018). If or how climate change could affect bats in California, particularly bridge-dwelling bats,
+is difficult to predict. In California, bridges primarily support bats during the maternity season but
+spring, fall, and winter bridge roosting habitats are also important. The maternity season can be
+defined as when pregnant females congregate at a roost to give birth and raise their young. The
+maternity season is generally over when the year’s young are flying and begin foraging on their
+own. Shifts in local migratory patterns and seasonal use of bridges could change the patterns of
+bat use.
+3.6 Vehicular Collisions
+Transportation infrastructure such as roads and highways has substantially affected wildlife
+through the direct casualties associated with vehicle collisions. Most research on vehicle-related
+fatalities has focused on non-flying mammals, birds, and herptiles. However, with an increased
+awareness of vehicular collisions with bats, more research is needed to understand this threat
+(Lesinski 2007, Russel et al. 2009, Medinas et al. 2013). Vehicle-related bat casualties have been
+linked to the proximity of roadways relative to commuting or foraging flyways (e.g., roads through
+or alongside tree stands, riparian corridors), nearness to important roost sites such as maternity
+roosts, time of year, species-specific flight behavior pattern (e.g., low-flying versus high-flying
+pattern), age, and sex (Lesinski 2007, Gaisler et al. 2009, Medinas et al. 2013, Novaes et al. 2018).
+Russell et al. (2009) examined the incidence of roadway bat casualties between a known little
+brown myotis and Indiana bat roost site and associated foraging areas; the researchers estimated
+that annual highway mortality accounted for as much as 5% mortality of the combined colonies.
+Caltrans Bat Mitigation: A Guide to Developing 3-7 H. T. Harvey & Associates
+Feasible and Effective Solutions July 2019
+Other studies have found a higher incidence of collision-related bat casualties in the late summer,
+which may be attributed to the time when young of the year become volant (Gaisler et al. 2009).
+Given that bridges provide important roost habitat for bats, and are thus an attractant for bats,
+bridges could represent a casualty risk for bats that occupy these structures. This may be especially
+true when vegetative growth blocks the aerial passage under the bridge, forcing bats to fly over
+the bridge to access areas on the opposite side of the bridge as their roosts. Although not well-
+studied, many transportation projects in Europe have developed mitigation for bats comprising
+crossing structures, such as overpasses (e.g., bat gantries) or underpasses where known commuting
+routes intersect roadways, in an attempt to safely guide bats over or under roadways (Berthinussen
+and Altringham 2012, Elmeros et al. 2016). While underpasses appear to be more widely-used by
+bats and thus, generally more effective, research results are inconsistent. More research and
+monitoring are needed to fully assess the effectiveness of these mitigation structures.
+3.7 Human Disturbance
+Human disturbance is an important threat to bat conservation and can lead to roost abandonment,
+or in the case of active maternity colonies of Townsend’s big-eared bats, direct mortality of young.
+Though direct forms of human disturbance are a threat to bat populations, impacts associated with
+indirect forms of human disturbance may represent a greater overall threat. Human disturbance
+during critical periods, namely winter hibernation and maternity seasons, can have detrimental
+effects on bat populations. For example, frequent arousals caused by cave visitations during the
+winter hibernation season can result in reduced energy reserves and survival rates of hibernating
+bats (Boyles and Brack Jr. 2009). During the maternity season, an increase in even a low level of
+human disturbance can cause sensitive species, particularly the Townsend’s big-eared bat and
+sometimes the pallid bat, to move to different roost sites or abandon roost sites altogether (Beck
+and Rudd 1960, Pierson et al. 1988). In urban areas, bridge-roosting bats are especially vulnerable
+to human disturbance because urban bridges are often an attractant for regular human activity,
+including homeless encampments and vandalism. Common species, such as the Yuma myotis and
+Mexican free-tailed bat, generally adapt to regularly occurring disturbance. However, bat colonies
+that roost within the physical reach of humans become vulnerable to damage and possible
+destruction.
+3.8 Species Priorities for Conservation
+Because bridge-roosting bat species have different sensitivities to disturbance and use bridges to
+varying degrees, the following list identifies the levels of risk to these species. This list was
+Caltrans Bat Mitigation: A Guide to Developing 3-8 H. T. Harvey & Associates
+Feasible and Effective Solutions July 2019
+developed by the California Bat Working Group in 2007. The Highest Risk, Medium Risk, and
+Lowest Risk categories indicate the level of risk to populations of these species as a result of
+roosting in bridges. For example, the long-eared bat (Myotis evotis) is included in the Lowest Risk
+category because a very low percentage of this species’ populations in California use bridges as
+habitat. Thus, there is a very low likelihood that transportation projects will affect long-eared bat
+populations. In contrast, the commonly occurring Yuma myotis is a riparian and waterway obligate
+and a very high percentage of the species’ population uses bridges for maternity roosting habitat.
+Therefore, populations of this species have been designated as being at the highest risk of impacts
+due to transportation projects.
+Highest Risk:
+· Pallid bats — Impacts on day roosts and maternity roosts of this species in and on bridges are
+fairly well-documented. In Johnston et al.’s 2004 study of three bridge projects with pre-
+construction maternity colonies of pallid bats, none of the mitigation worked; after pallid bats
+were excluded, no pallid bats returned to the new or retrofitted bridges with replacement
+habitat. In this 2019 study, mitigation for lost habitat for pallid bats for 10 bridges and one
+culvert was provided through replacement habitat; however, post-construction surveys suggest
+only four of the bridges and the culvert now have pallid bat colonies. The pallid bat is a CDFW
+SSC, and both subspecies (A. p. pacificus and A. p. pallidus) appear to be declining in
+California and adjacent states (Johnston and Stokes 2007; Johnston 2017). In addition to the
+loss of day roosting habitat for maternity colonies, the loss of night roosting habitat could also
+pose a substantial threat to bat populations in certain situations as the result of bridge
+replacement and retrofitting activities. An example situation involving night roosts is discussed
+in Section 8 for Uvas Creek Bridge Project on SR 152 in Santa Clara County.
+· Yuma myotis — This species occurs in colonies of up to 100 or more individuals on many
+bridges near water throughout the state. The Yuma myotis is often considered an obligate
+riparian species (Johnston et al. 2002) because it forages primarily on the surface, very near
+the surface of water bodies, or within the riparian habitat on aquatic emergent insects (Brigham
+et al. 1992). This species forages preferentially over still, open bodies of water, and thus may
+benefit from reservoirs and slow-moving water associated with bridge projects (Herd and
+Fenton 1983). At lower elevations this species frequently forms large colonies in culverts and
+bridges over water, which exposes them to disturbances from bridge or culvert maintenance,
+improvement, or replacement projects. Yuma myotis are increasing their populations because
+of water management projects and because bridges often span watercourses and provide
+maternity roosting habitat (Johnston 2012). Yuma myotis are considered at high risk because
+Caltrans Bat Mitigation: A Guide to Developing 3-9 H. T. Harvey & Associates
+Feasible and Effective Solutions July 2019
+a large percentage of their population occurs in bridges and culverts, which makes them
+susceptible to habitat loss when bridges are retrofitted or replaced.
+· Mexican free-tailed bats — This species is by far the most common and abundant species in
+transportation structures, especially in bridges and causeways over or adjacent to waterways.
+It is partly because of bridges that this species has been able to increase in numbers since the
+beginning of the European colonization of California (Johnston 2012). Because of their affinity
+to roost in anthropogenic structures, this species is also exposed to issues relating to bridge
+replacement projects, bridge retrofits, and poor water quality associated with urban areas. For
+example, when the Franklin Boulevard Causeway Bridge in Sacramento County was rebuilt,
+40,000 bats had to be excluded from the structure (Johnston 2005). This colony represented a
+very high percentage of the regional population. The project involved installing seven bat
+condominiums that were intended to provide replacement maternity roosting habitat; however,
+there were only 2,000 bats total at the peak occupancy for all seven bat condominiums
+combined. Four years passed between the bats’ exclusion and when they had access to the new
+bridge, suggesting that the majority of this large population was at risk in the interim. In
+addition to bridge projects, natural disasters such as flooding or fires can also put these large
+concentrated populations at risk when they roost in bridges.
+Medium Risk:
+· Townsend’s big-eared bats — This species occasionally day roosts in bridges with partially-
+open abutments or open-ended box beams (Dave Johnston, and Kim Briones pers. obs., 2018;
+Pierson and Fellers 1998). Maternity colonies of this species have long been known to be
+extremely sensitive to increases in disturbance, and females have been documented
+abandoning their young when disturbed (Humphrey and Kunz 1976). Some research suggests
+that the species is reasonably tolerant of disturbance when no increase in the ambient levels of
+noise disturbance occur, but more studies are needed to better understand tolerance levels and
+the conditions of these disturbances and how they affect this species (CDFW 2016, Freeman
+2012). The Townsend’s big-eared bat is a CDFW SSC.
+· Big brown bats — This species occasionally uses expansion joints for day roosts in bridges,
+and data from this study determined that big brown bat individuals will typically return to
+mitigation roost habitat or retained roost habitat following disturbance (See Section 8). Big
+brown bats are known to abandon roosts when construction activities include high frequency
+noises between 20 and 30 kHz (H. T. Harvey & Associates 2006).
+Caltrans Bat Mitigation: A Guide to Developing 3-10 H. T. Harvey & Associates
+Feasible and Effective Solutions July 2019
+· Long-eared myotis (Myotis evotis), fringed myotis (Myotis thysanodes), California myotis
+(Myotis californicus), and long-legged myotis (Myotis volans), little brown myotis (Myotis
+lucifugus), Canyon bat (Parastrellus hesperus) — These species night roost in small
+numbers in bridges that often include closure pours or concrete girders which trap warm air at
+night (typical night roosting habitat). However, they occasionally day roost on transportation
+structures and their populations can be adversely affected through retrofitting or replacement.
+Because they day roost only infrequently on these transportation structures, populations of
+these species are considered at a medium risk of impacts associated with bridge and culvert
+projects.
+· Western mastiff bat (Eumops perotis) — This species occasionally roosts on bridges,
+although it is more commonly found roosting on cliff faces. Road building along cliff faces, as
+well as bridge construction or replacement, are considered a medium risk to this species
+because there are relatively few roosts in California.
+Lowest Risk:
+· California leaf-nosed bats (Macrotus californicus) — A small maternity colony of this
+cavernous roosting species was observed roosting on the California side of a bridge crossing
+the Colorado River in 2016 (Brown pers. comm. 2018). Because of the rarity of this species
+using bridges, risks to California leaf-nosed bats from implementation of bridge projects are
+considered minimal.
+· Western red bats (Lasiurus blossevillii) — This species day roosts in the foliage of trees.
+Threats to this species from bridge and culvert projects are not well understood. However,
+bridges are frequently situated across riparian areas and likely migratory routes for this species.
+If these bridges are retrofitted or replaced, impacts on the trees adjacent to the bridge could
+affect individuals of this species.
+· Northern yellow bats (Lasiurus xanthinus) — Because this species typically roosts in palms
+in the southernmost areas of the state, the likelihood of impacts on the species from
+implementation of bridge projects is anticipated to be relatively low. If implementation of a
+bridge project entails the removal of fan palms (Washingtonia spp.), which are potential
+roosting habitat, there is a potential for direct impacts to individuals of this species.
+· Silver-haired bats (Lasionycteris noctivagans) — This species is expected to occur in many
+of the coniferous forests of California, and impacts from bridge-related projects are not well
+understood. However, bridges are frequently situated through wooded areas and sometimes
+Caltrans Bat Mitigation: A Guide to Developing 3-11 H. T. Harvey & Associates
+Feasible and Effective Solutions July 2019
+across likely migratory routes for this species. Bridge projects may require trees adjacent to
+the bridge to be removed, which could affect individuals of this species.
+· Hoary bats (Lasiurus cinereus) — Because the hoary bat migrates vast distances from parts
+of Mexico in the winter to more northern latitudes including Canadian forests in the summer,
+this species may occur in a wide variety of landscapes and habitats. Like other foliage-roosting
+species, any tree removal from the implementation of transportation projects could affect
+individuals of this species but this is considered a low risk to its populations.
+· Small-footed myotis (Myotis ciliolabrum) — This species is expected to occasionally roost
+in bridges, but little is known about maternity colonies using bridges. Bridges are not expected
+to regularly provide maternity roosting habitat for this species. Thus, populations of these
+species are considered at a low risk of impacts associated with implementation of bridge
+projects.
+· Arizona myotis (Myotis occultus) — This species rarely occurs in California and is only
+known from along the lower Colorado River. The last known maternity colony was
+documented in a timber bridge prior to the bridge’s removal (Stager 1943). This species roosts
+occasionally in bridges over watercourses in Arizona, which is in the central portion of its
+range; however, it is expected to occur only rarely in California bridges because of its currently
+retracted range. Therefore, transportation projects present only a low risk to the species in
+California.
+· Cave myotis (Myotis velifer) — This species occasionally day roosts in bridges in Arizona
+but has not been detected day or night roosting on bridges in California. Therefore, any
+potential risks to this species as a result of transportation projects in California would be
+considered minimal.
+· Mexican long-tongued bat (Choeronycteris mexicana) and lesser long-nosed bat
+(Leptonycteris yerbabuenae) — These nectar feeding species are considered rare in California
+but they are occasionally observed feeding on hummingbird feeders, ornamental plantings of
+agave (Agave spp.), and the native Shaw’s agave (Agave shawii). Both species are cave or
+grotto roosting bats but are not known to roost on bridges or culverts. Therefore any
+transportation projects would likely be considered to have minimal impacts to this species as
+long as agaves are not affected.
+· Spotted bat (Euderma maculatum) — This species specializes on roosting on cliff faces or
+caves situated on cliff faces. They are not known to roost on bridges or culverts and the
+potential of impacts on this species from transportation projects is mostly limited to projects
+Caltrans Bat Mitigation: A Guide to Developing 3-12 H. T. Harvey & Associates
+Feasible and Effective Solutions July 2019
+involving high rocky cliffs. Thus, populations of these species are considered at a low risk of
+impacts associated with bridge and culvert projects.
+· Big free-tailed bat (Nyctinomops macrotis) and pocketed free-tailed bat (Nyctinomops
+femorosaccus) — These cliff roosting species occasionally night roost on bridges, but they
+have very limited ranges in California. Potential risk from transportation projects along cliffs
+or night roosting on bridges is considered minimal and would be considered a low risk to these
+populations.
+Caltrans Bat Mitigation: A Guide to Developing 4-1 H. T. Harvey & Associates
+Feasible and Effective Solutions July 2019
+Section 4. Legal Regulations and Their
+Implications for Projects
+Although no bat species present in California is currently designated as threatened or endangered
+under the Federal Endangered Species Act (FESA) or the California Endangered Species Act
+(CESA), 12 species of bats are designated as SSC by CDFW. The USFS includes three bat species
+on its sensitive animal list for the Pacific Southwest Region, and the Western Bat Working Group
+also identifies several species as high priority for consideration of conservation measures (Section
+3). The regulatory agency most directly involved with bat conservation in California is CDFW.
+The primary regulatory mechanism applicable to bats is CEQA, which requires an analysis of a
+project’s effects on the environment, including biological resources such as bats.
+There are no federally listed bats present in California at the time of preparation of this guidance
+document (USFWS 2019a, 2019b). The lesser long-nosed bat (Leptonycteris yerbabuenae), which
+was formerly federally listed as endangered, has been infrequently reported in southern California.
+This species did not become part of the California fauna until nectar-producing plants were
+established in landscaped areas, and it was delisted by USFWS in 2018. For states where federally
+listed bat species regularly occur, FESA provides legislated protection against loss (take) of any
+individuals, or the loss of any federally designated critical habitat as published in the Federal
+Register. If a project has the potential to result in adverse effects to listed species, project
+proponents initiate Section 7 or Section 10 consultation with the USFWS. The Section 7
+consultation process is used for projects that are federal actions; Section 10 consultation applies to
+non-federal actions. FESA provides a mechanism to mitigate the loss, or potential loss, of listed
+species. Because many bat species’ habitats overlap, protection for federally listed bat species may
+indirectly benefit other non-listed bat species.
+No California bat species are listed as threatened or endangered, or candidates for listing, under
+CESA at the time of preparation of this guidance document (CDFW 2019b). The Townsend’s big-
+eared bat was a candidate for listing under CESA from November 9, 2012, through August 25,
+2016. After a review of the best scientific information available, CDFW recommended to the
+California Fish and Game Commission that listing of the species was not warranted. The
+commission, in response to CDFW staff recommendation and after considering public comment,
+voted not to list the species. CDFW ultimately recommends that all Townsend’s big-eared bat
+maternity and hibernation roosts be considered habitat essential for the continued existence of the
+species. This recommendation was formulated as part of its status review for the Townsend’s big-
+eared bat and is based on the susceptibility of roost structures to disturbance, degradation, and loss.
+Caltrans Bat Mitigation: A Guide to Developing 4-2 H. T. Harvey & Associates
+Feasible and Effective Solutions July 2019
+Colonial roosting species, like many bats, also receive attention during the environmental review
+for CEQA compliance because of the potential for individual projects to have population-level
+impacts to a species, even relatively common or widespread species. The following sections
+provide the regulatory setting for assessing potential impacts on bats through CEQA and discusses
+their potential implications for Caltrans projects.
+4.1 California Environmental Quality Act
+CEQA serves as the regulatory framework through which California public agencies assess,
+disclose, and mitigate significant environmental impacts from proposed projects requiring public
+agency approval. Because CEQA compliance is the principal regulatory mechanism to protect bat
+populations in California, the primary objective of protecting bats on bridges and culverts is to
+avoid impacts through implementation of avoidance, minimization, and mitigation measures.
+Impacts on biological resources are typically considered significant if they would substantially
+degrade the quality of the environment, substantially reduce the habitat of a fish or wildlife species,
+cause a fish or wildlife population to drop below self-sustaining levels, threaten to eliminate a plant
+or animal community, or substantially reduce the number or restrict the range of an endangered,
+rare or threatened species (Public Resources Code [PRC], Section 21083; CEQA Guidelines in
+Title 14, California Code of Regulations [CCR], Sections 15065[a][1] and 15206[b][5]). The
+CEQA Guidelines identify rare, threatened, and endangered species as plants or animals already
+listed by a governmental agency as being rare or endangered or that meet the definitions provided
+in the CEQA Guidelines (Title 14, CCR, Section 15380). For example, CDFW designates rare
+species, such as the pallid bat and Townsend’s big-eared bat, as SSC.
+Caltrans, as the lead agency under CEQA, coordinates with CDFW, as a responsible agency under
+CEQA, to determine if the effects of a proposed transportation project meets the criteria to be
+considered significant under CEQA. If a project has the potential to result in significant impacts
+on rare, threatened, or endangered species, the lead agency is required to prepare an Initial
+Study/Negative Declaration (IS/ND), Initial Study/Mitigated Negative Declaration (IS/MND), or
+an Environmental Impact Report (EIR) to fully analyze those impacts. The Caltrans Project
+Development Team (PDT) determines the type of CEQA document that will be prepared by
+evaluating all potential environmental impacts, including those on non-biological resources, and
+assessing whether mitigation is required to reduce the impacts to less-than-significant levels. The
+biological resources section of the CEQA document is typically developed using a project’s
+Natural Environment Study (NES) or NES Minimal Impact (NES-MI). The NES presents the
+status of the regulatory agency consultation process and describes the avoidance and minimization
+measures for biological resources. For example, the standard project avoidance and minimization
+Caltrans Bat Mitigation: A Guide to Developing 4-3 H. T. Harvey & Associates
+Feasible and Effective Solutions July 2019
+measures implemented when bat roosting habitat may be affected can vary from seasonal work
+restrictions, such as avoiding work during the maternity season, to the use of temporary
+exclusionary devices prior to and during the construction phase. If project impacts on bats are
+identified as potentially significant even with the implementation of avoidance and minimization
+measures, Caltrans may develop appropriate mitigation measures to reduce the level of the
+impacts. Mitigation measures are typically based on habitat criteria as it is challenging to guarantee
+species’ responses. Unfortunately, implementing mitigation measures for wildlife does not ensure
+that they will be successful for the targeted wildlife. Even experienced bat biologists cannot
+guarantee when prescribed mitigation measures will work as intended. Therefore, it is important
+to clearly identify qualitative and quantitative goals and objectives in a mitigation and monitoring
+plan and provide an adaptive management clause.
+As a CEQA responsible agency, CDFW may require additional mitigation measures for bats prior
+to issuing approvals such as a Lake and Streambed Alteration Agreement (LSAA), which is
+discussed below, or incidental take permit for the project. Caltrans will incorporate the complete
+set of mitigation measures into the mitigation and monitoring plan that will be implemented during
+project activities; these measures will also be included in the project specifications and layouts.
+Mitigation monitoring is intended to improve the success of mitigation, inform adaptive
+management to meet success criteria, and improve the development of future mitigation measures
+over time.
+The Caltrans PDT determines if any of the project effects meet the criteria to be considered
+significant under CEQA and determines the type of environmental document to prepare for each
+project. If a project has the potential to result in significant effects on rare, threatened, or
+endangered species, the lead agency is required to prepare an Initial Study/ Negative Declaration
+(IS/ND) or if there is an actual impact resulting in mitigation an Initial Study/ Mitigated Negative
+Declaration (IS/MND) or an Environmental Impact Report (EIR) to fully analyze those impacts.
+The ultimate determination regarding the type of CEQA documentation is based on an evaluation
+of all potential project impacts, including impacts to non-biological resources. Because CEQA
+compliance is the principal regulatory mechanism to protect bat populations in California, the
+primary objective of protecting bats on bridges and other transportation infrastructure is to avoid
+significant environmental effects under CEQA. Through efforts to avoid, minimize, and mitigate
+for negative effects to bats from activities on the SHS, we can help avoid significant environmental
+effects under CEQA.
+During project planning, Caltrans evaluates the potential for species and their habitats to occur
+within the proposed project area and subsequently assesses whether project activities would result
+Caltrans Bat Mitigation: A Guide to Developing 4-4 H. T. Harvey & Associates
+Feasible and Effective Solutions July 2019
+in effects on species and/or their habitats. This evaluation may be described in the preparation of
+a NES or NES-MI.
+For bridge projects that have the potential to affect bats, Caltrans coordinates a site visit by a
+qualified biologist to assess the potential habitat. Based on the findings of the site visit, additional
+surveys for bats may be needed to identify which species are present. If implementing the bridge
+project would result in adverse effects on bat species, an impact analysis would be developed,
+typically in a NES to support the project’s environmental compliance. If mitigation is required for
+significant impacts to bats, Caltrans would then develop and implement a bat mitigation plan.
+CEQA requires monitoring to assess the success of mitigation measures. These measures are
+typically based on habitat criteria as it is challenging to guarantee species’ responses. Mitigation
+monitoring is an essential part of the CEQA process and is intended to improve the success of
+mitigation, inform adaptive management to meet success criteria, and improve the development of
+future mitigation measures over time. Unfortunately, implementing mitigation measures for
+wildlife does not ensure that they will be successful for the targeted wildlife. Even experienced bat
+biologists cannot guarantee when prescribed mitigation measures will work as intended. This
+makes it very important to clearly identify qualitative and quantitative goals and objectives in the
+mitigation plan or strategy and provide an adaptive management clause. Caltrans must ensure that
+all standard or mitigation measures identified in the NES and the permits are incorporated into the
+project specifications and layouts.

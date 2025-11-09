@@ -1,0 +1,148 @@
+RESULT: 0.5 0.5
+ In many cases, bats have adapted to roosting in transportation structures as a result of lost or degraded habitats.
+RESULT: 0.55 0.3
+ The development of a project-specific bat mitigation plan is one of the best ways to ensure the measures developed in the planning process are completed during construction.
+RESULT: 0.6 0.8
+ There is no �one size fits all� solution to achieve effective mitigation.
+RESULT: 0.75 0.95
+ Add-on replacement roosting habitat using Oregon wedges, panels, and bat boxes were successful.
+RESULT: 0.6 0.8
+ California Bat Mitigation: A guide to developing feasible and effective solutions.
+RESULT: 0.5 0.625
+ Torpor: A voluntary physiological state in which a heterothermic animal is able to lower its body temperature, heart rate, and respiration to reduce energy requirements.
+RESULT: 0.5 0.5
+ Along with the responsibility for planning, designing, building, and maintaining California�s many state transportation structures, Caltrans biologists, planners, engineers, maintenance workers, and contractors have a responsibility to ensure the protection and conservation of bat populations that occupy these structures.
+RESULT: 0.5 0.5
+ This allows researchers and transportation practitioners to make more informed assessments of bridges as bat habitat and decisions on developing recommendations to avoid, minimize, or mitigate adverse effects on bats from transportation projects.
+RESULT: 0.5 0.6
+ These examples of bridge and culvert bat mitigation projects are not meant to be replicated exactly as �off-the-shelf designs and mitigation plans� for use on any project; they are meant to showcase successful bat mitigation plans and replacement bat habitat designs.
+RESULT: 0.78 0.78
+ During the summer months maternity colonies roost in conditions that are very warm and thermally stable.
+RESULT: 0.5 0.5
+ When crevice roosting bats choose a tree for day roosting, the tree is usually greater than 12 inches diameter at breast height and more than 40 feet tall (Rancourt et al.
+RESULT: 0.5 0.5
+ Although some bat species appear to be obligate cavern or crevice dwellers, there is a continuum between crevices and caverns, and many species use a range of roosts.
+RESULT: 0.5 0.5
+ Although some bat species are attracted to lights, many species are repelled by them (Rowse et al.
+RESULT: 0.5 0.5
+ See Sections 6 and 7 for more discussion on determining impacts and developing mitigation.
+RESULT: 0.7 0.6000000000000001
+ Caltrans (2016) also provides guidance and good discussions about noise impacts to bats at transportation projects.
+RESULT: 0.7 0.75
+ 3.4 White-Nose Syndrome The primary introduced disease that exhibits the greatest risk to bats is White-nose Syndrome (WNS), which is caused by a fungus (Pseudogymnoascus destructans) and infects bats in hibernation.
+RESULT: 0.5 0.5
+ Most research on vehicle-related fatalities has focused on non-flying mammals, birds, and herptiles.
+RESULT: 0.5 0.5
+ However, with an increased awareness of vehicular collisions with bats, more research is needed to understand this threat (Lesinski 2007, Russel et al.
+RESULT: 0.5 0.6333333333333333
+ This may be especially true when vegetative growth blocks the aerial passage under the bridge, forcing bats to fly over the bridge to access areas on the opposite side of the bridge as their roosts.
+RESULT: 0.5333333333333333 0.6
+ While underpasses appear to be more widely-used by bats and thus, generally more effective, research results are inconsistent.
+RESULT: 0.5 0.5
+ More research and monitoring are needed to fully assess the effectiveness of these mitigation structures.
+RESULT: 0.7 0.9
+ Highest Risk: � Pallid bats � Impacts on day roosts and maternity roosts of this species in and on bridges are fairly well-documented.
+RESULT: 0.8 0.9
+ Even experienced bat biologists cannot guarantee when prescribed mitigation measures will work as intended.
+RESULT: 0.8 0.9
+ Even experienced bat biologists cannot guarantee when prescribed mitigation measures will work as intended.
+RESULT: 0.55 0.65
+ Caltrans will continue to explore options for accommodating bats on transportation structures, as this approach is often the most effective to reduce project impacts on bats to less-than-significant levels under CEQA.
+RESULT: 0.5 1.0
+ Innovative design and construction methods should be evaluated and used as practicable.
+RESULT: 0.55 0.9
+ Innovative and effective mitigation strategies are a priority, including off-site efforts.
+RESULT: 0.5 0.5
+ Additionally, Caltrans encourages staff biologists to receive training on bat biology, survey protocols, and development of appropriate mitigation measures.
+RESULT: 0.9 1.0
+ A minimum of 2 years would be an ideal amount of time to initiate the desktop review, but for projects with an expedited schedule, biologists can perform all preliminary desktop and seasonal surveys in the field within 1 year.
+RESULT: 0.55 0.75
+ Suitable habitat and/or signs of bat use to look for during the daytime preliminary field assessment include guano, urine staining, and culled insect parts on or underneath the bridge.
+RESULT: 0.65 0.625
+ High-quality (e.g., Generation 3+) night vision goggles can greatly increase the accuracy of some exit counts and, in many cases, aid in the identification of species as bats emerge.
+RESULT: 0.5 0.5
+ Sites with five or more call files per 10-minute interval suggest that the monitored tree supports a bat roost.
+RESULT: 0.8 0.9
+ If the project biologist does not have the preferred minimum experience, then he/she should seek guidance from an experienced Caltrans biologist or bat specialist with a minimum of 5 years of experience working on bridges with bats.
+RESULT: 0.5 0.7
+ Additionally, bats� sensitivity to noise is usually greatest at frequencies similar to those used for foraging.
+RESULT: 0.5 0.625
+ Humans may not be able to hear frequencies detected by bats.
+RESULT: 0.5 0.55
+ Multi-use paths that are designed along streams and under bridges should separate or isolate human traffic from bat roosts to the greatest extent feasible.
+RESULT: 0.55 0.35
+ Preparing a project-specific bat mitigation plan is one of the best ways to ensure the planning process is complete.
+RESULT: 0.6 0.8
+ There is no �one size fits all� solution to achieve effective mitigation.
+RESULT: 0.55 0.55
+ In most parts of California, night roosting on bridges occurs from spring through fall, when warm daytime temperatures heat the bridge deck and create warmer-than-ambient temperatures on the structure into the nighttime hours.
+RESULT: 0.5 0.5
+ These buffer zones are recommended as guidance, however the appropriate buffer to reduce disturbances below levels at which a maternity colony may abandon its roost site is not known.
+RESULT: 0.5666666666666667 0.5333333333333333
+ The temperature of the soffit remains warmer than the ambient temperature throughout most of the night, which provides good night roosting habitat for many bat species (Photo 7-1).
+RESULT: 0.5 0.5
+ Supplemental habitat should also be considered when exclusion will occur for more than one season.
+RESULT: 0.6375 0.875
+ � Ideally, the size of the replacement gap should match that of the original gap.
+RESULT: 0.5 0.5
+ � Gasket material should be omitted from the bottom 12 or more inches of the joint.
+RESULT: 0.5 0.5
+ However, the efficacy of this technique needs more research.
+RESULT: 0.7375 0.75
+ Oregon wedges and panels have been very successful in many roost replacement situations (See Photos 8-3, 8-4, 8-5, and 8-27).
+RESULT: 0.5 0.5
+ Bat houses of many sizes and shapes may provide add-on roosting habitat.
+RESULT: 0.75 0.95
+ The successful use of on-site bat houses is discussed for the Otay River Bridge Project in Section 8 and illustrated in Photo 8-27.
+RESULT: 0.5 0.5
+ In many cases, the wintering and hibernation sites are used as day roosts during the rest of the year.
+RESULT: 0.5 0.625
+ Bats should be able to crawl inside the expansion joint space until they reach a one-way door through which they can drop and emerge.
+RESULT: 0.75 0.95
+ Mitigation would be considered successful when the target species has occupied the replacement habitat and when the estimated population of the target species has reached the goals set forth in the bat mitigation plan or 100% of the pre-construction population numbers.
+RESULT: 0.5333333333333333 0.09999999999999999
+ It is a best practice to employ adaptive management to improve mitigation success with regulatory agencies and expert bat biologists during the monitoring period and not wait until the end of the monitoring period to report that success criteria have not been met.
+RESULT: 0.75 0.95
+ Representative plans for successful cast-in-place and add-on bat habitat features are included in Appendix B.
+RESULT: 0.625 0.725
+ Of the 61 bridges and culverts selected, 39 bridges had completed mitigation and were evaluated for their effectiveness in implementing appropriate mitigation and successfully providing roosting habitat.
+RESULT: 0.6875 0.525
+ 8.3 Designs for Roosting Habitat on Bridges 8.3.1 Original Habitat Retained When feasible, retaining roost habitat is the best option for reducing impacts from bridge and culvert project implementation on roosting bats.
+RESULT: 0.5 0.5
+ However, this may also be the most cost-effective option for a project.
+RESULT: 0.75 0.95
+ The three project examples below included temporary exclusion and were considered successful.
+RESULT: 0.5 0.5
+ However, some hinge space was still not occupied as of 2017, suggesting that there is room for more bats to roost on the bridge.
+RESULT: 0.6 0.8
+ Thus, the avoidance, minimization, and mitigation measures implemented for this project were effective.
+RESULT: 0.6 0.8
+ Both of these projects demonstrated the establishment of effective mitigation roost habitat for substantial bat colonies.
+RESULT: 1.0 1.0
+ Although this was not a Caltrans project, it is an excellent example of how a roost feature was incorporated into the bridge project design.
+RESULT: 0.5 0.5
+ Another similarity between the West El Camino Avenue Bridge and the Franklin Boulevard Causeway Bridge was that the replacement roost habitat was cast in a top deck; this was a slab bridge that was heated by solar radiation.
+RESULT: 0.5 0.5
+ In 2013 Yuma myotis had colonized the exterior panels of the bridge, but the panels within the closure pour were mostly vacant of bats (Carpenter pers.
+RESULT: 0.5 0.5
+ However, during the July 25, 2017, site visit, the bat biologists counted 131 Yuma myotis day roosting, mostly on the outsides of the double-concrete bar bat boxes, and no pallid bats had recolonized the bridge post-construction.
+RESULT: 0.5 0.5
+ Night Roosting Habitat As noted in Section 2, night roosting habitat provides a safe place for bats to rest and digest their food between foraging bouts.
+RESULT: 0.6 0.8
+ Based on observations made pre- construction and post-construction, the mitigation on this project was effective for all species, including pallid bat, the target species.
+RESULT: 0.75 0.95
+ However, bats successfully recolonized all three of these bridges post-construction.
+RESULT: 0.5 0.625
+ These boxes appeared to be able to hold about 300 bats per box.
+RESULT: 0.65 0.625
+ However, while many commercially-produced boxes exist, these vary greatly in materials and quality.
+RESULT: 0.515 0.8150000000000001
+ However, this mitigation habitat type was used in the northern Sacramento Valley climate, which has hot days and very warm nights in the summer.
+RESULT: 0.6 0.8
+ Effective for MYYU and TABR Hinges and Expansion Joints I-880 Alameda Creek Bridge District 4, Alameda County, Caltrans Bridge #33-0240 Day/ Maternity/ Night/ Overwintering 18 night roosting/ 0% Recolonized 0 100/100 100% Recolonized (Year-round) 994/1010 100% Recolonized (overwintering) 0 0 Unclear when ANPA no longer night-roosted in the bridge.
+RESULT: 0.6 0.8
+ Effective for MYYU and TABR Hinges and Expansion Joints SR-101 Matadero Creek District 4, Santa Clara County, Caltrans Bridge #37-0040 Day 0 0 40/20 50% Recolonized 0 0 0 Construction disturbed for five years.
+RESULT: 0.5833333333333334 0.45
+ Bat Mitigation Recommendations The following recommendations 1 � 4 are based on proven best practices for successful bat mitigation planning, construction, and monitoring.
+RESULT: 0.55 0.75
+ During that assessment, two hinges were observed containing crevices suitable for use by day-roosting bats.
